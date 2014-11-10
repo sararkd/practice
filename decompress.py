@@ -16,4 +16,5 @@ def decompress(s):
     
     return res
 
-print decompress('aa12xErtgvd5xrghrtsadf')
+s = 'aa12xErtgvd5xrghrtsadf'
+print decompress(s)
